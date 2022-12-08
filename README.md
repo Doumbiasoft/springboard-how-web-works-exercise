@@ -1,2 +1,1 @@
-# springboard-how-web-works-exercise
-How Web Works Exercise
+# How Web Works Exercise
