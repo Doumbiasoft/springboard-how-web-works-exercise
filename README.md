@@ -55,6 +55,8 @@ Using **curl**, make a **GET** request to the ``icanhazdadjoke.com`` API to find
 Use **dig** to find what the IP address is for ``icanhazdadjoke.com``
 Make a simple web page and serve it using ``python3 -m http.server``. Visit the page in a browser.
 
+![alt image](https://github.com/doumbiasoft/springboard-how-web-works-exercise/blob/main/curl.png)
+
 # Part Three: Explore Dev Tools
 
 Build a very simple HTML form that uses the GET method (it can use the same page URL for the action) when the form is submitted.
